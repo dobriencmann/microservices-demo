@@ -1,4 +1,4 @@
-package com.morph.microsservices.demo.controller;
+package com.morph.microservices.demo.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
