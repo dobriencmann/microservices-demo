@@ -1,0 +1,3 @@
+com/morph/microservices/demo/service/SpringBootHellowWorldApplication.class
+com/morph/microsservices/demo/controller/GreetingController.class
+com/morph/microservices/demo/service/Greeting.class
